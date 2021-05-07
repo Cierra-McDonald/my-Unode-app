@@ -38,37 +38,3 @@ main {
 .main-header__item a.active { 
     color: rgb(225, 121, 102);
 }
-.product-form { 
-    width: 20rem;
-    max-width: 90%;
-    margin: auto;
-}
-
-
-.form-control { 
-    margin: 1rem 0;
-}
-.form-control label,
-.form-control input { 
-    display: block;
-    width: 100%;
-}
-.form-control input { 
-    border: 1px solid rgb(225, 121, 102) ;
-    font: inherit;
-    border-radius: 2px;
-}
-button { 
-  font: inherit;
-  border: 1px solid black;
-  color: rgb(225, 121, 102);
-  background: whitesmoke;
-  border-radius: 3px;
-  cursor: pointer;
-}
-button:hover,
-button:active
-button:active { 
-    color: whitesmoke;
-    background-color: rgb(225, 121, 102);
-}
